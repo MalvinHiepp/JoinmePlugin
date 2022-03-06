@@ -1,0 +1,4 @@
+name: JoinMePlugin
+version: '${project.version}'
+main: de.schnoggy.joinmeplugin.JoinMePlugin
+author: Schnoggy
